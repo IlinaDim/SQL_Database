@@ -1,0 +1,11 @@
+course_id,title,prof_id
+CS101,Intro to Programming,3
+MATH101,Linear Algebra,2
+BIO301,Genetics,6
+PHYS200,Electromagnetism,1
+LIT110,Intro to American Literature,5
+MATH202,Geometry,4
+CS220,Intro to Web Design,7
+PHYS304,Quantum Physics ,8
+LIT340,Poetry,9
+BIO250,Biology Lab,10

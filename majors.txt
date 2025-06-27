@@ -1,0 +1,6 @@
+major_id,department,degree_type
+101,Mathematics,BS
+102,Physics,MS
+103,Literature,BA
+104,Computer Science,BS
+105,Biology,MS

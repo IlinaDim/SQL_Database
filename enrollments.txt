@@ -1,0 +1,11 @@
+student_id,major_id,course_id,grade,status
+1,101,MATH202,93,enrolled
+2,103,LIT340,90,enrolled
+3,105,BIO301,67,dropped
+4,104,CS101,89,enrolled
+5,102,PHYS200,40,dropped
+6,101,MATH101,87,enrolled
+7,105,BIO250,88,enrolled
+8,103,LIT110,75,enrolled
+9,102,PHYS304,70,enrolled
+10,104,CS220,95,enrolled

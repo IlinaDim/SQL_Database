@@ -1,0 +1,11 @@
+prof_id,fname,lname,department,sex
+1,James,Smith,Physics,M
+2,Lisa,Jones,Mathematics,F
+3,Katy,Taylor,Computer Sience,F
+4,Matthew,Connoly,Mathematics,M
+5,Edna,Mary,Literature,F
+6,Joel,Miller,Biology,M
+7,Linda,Ferguson,Computer Science,F
+8,Karen,Hopkins,Physics,F
+9,Ben,Valezquez,Literature,M
+10,Estelle,Villarreal,Biology,F

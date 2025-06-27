@@ -1,0 +1,11 @@
+student_id,fname,lname,prof_id,sex
+1,Layla,Smith,1,F
+2,Mike,Lorenzo,3,M
+3,Peter,Jackson,2,M
+4,Lidsey,Lohan,2,F
+5,Eddy,Munson,1,M
+6,Freddie,Mercury,3,M
+7,Carrie,Underwood,4,F
+8,Sabrina,Carpenter,4,F
+9,Gary,Coleman,5,M
+10,Tom,Holland,1,M
